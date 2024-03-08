@@ -16,7 +16,11 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ***Technical Skills:***&emsp;C++ Programming, Python, Javascript, Git/GitHub, MySQL.
 
-***Soft Skills:***&emsp;&emsp;Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
+***Soft Skills:***&emsp;Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
+
+***Technical Skills:*** | C++ Programming, Python, Javascript, Git/GitHub, MySQL.
+
+***Soft Skills:*** | Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
 
 ## EXTRA-CURRICULAR & CERTIFICATION
 
