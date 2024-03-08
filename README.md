@@ -6,18 +6,18 @@
 
 
 
-## SKILLS
-
-**Technical Skills**&emsp;&emsp;&emsp;C++ Programming, Python, Javascript, Git/GitHub, MySQL
-
-**Soft Skills** &emsp;&emsp;&emsp;&emsp;&emsp;Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
-
 ## EDUCATION
 Bachelor of Technology in Information Technology ,IPEC &emsp;&emsp;&emsp;2020 - 2024
 
 XII, CBSE , SSD Saraswati Bal mandir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020
 
 X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018
+
+## SKILLS
+
+Technical Skills&emsp;&emsp;C++ Programming, Python, Javascript, Git/GitHub, MySQL.
+
+Soft Skills&emsp;&emsp;&emsp;Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
 
 ## EXTRA-CURRICULAR & CERTIFICATION
 
@@ -33,3 +33,9 @@ X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 - Utilized JPMorgan Chase’s open-source library Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor
 - **Utilized skills:** Basic Programming, Contributing to The Open-Source Community, Financial Analysis, Web Applications, Python, Technical Communication, Git, Typescript.
 ## PROJECTS
+
+***Twitter Sentiment Analysis*** Developed a deep learning model that trains on 1.6 million tweets for sentiment analysis to classify any new tweet as either being positive or negative [(Try it here)](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis)
+- Achieved 78.2% accuracy in sentiment analysis using NLP techniques
+- Led implementation of NLP algorithms, improving sentiment analysis accuracy
+- Optimized model performance with data preprocessing, stemming, feature extraction
+- Utilized Kaggle API, manipulated Sentiment140 dataset for analysis
