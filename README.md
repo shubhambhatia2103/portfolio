@@ -8,9 +8,9 @@
 
 ## EDUCATION
 
-- Bachelor of Technology in Information Technology , IPEC | 2020 - 2024
-- XII, CBSE , SSD Saraswati Bal mandir | 2020
-- X, CBSE , SSD Saraswati Bal mandir | 2018
+B.Tech, IT | Inderprastha Engineering College (_2020-2024_)
+XII, CBSE | SSD Saraswati Bal mandir (_2020_)
+X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ## SKILLS
 
@@ -20,13 +20,13 @@
 
 ## EXTRA-CURRICULAR & CERTIFICATION
 
-### Cognizant Artificial Intelligence Job Simulation on Forage
+**Cognizant Artificial Intelligence Job Simulation on Forage**
 
 - Conducted exploratory data analysis (EDA) for Gala Groceries using Python and Google Colab.
 - Developed Python module for training machine learning models and outputting performance metrics.
 - **Utilized skills:** Data Analysis, Data Modeling, Data Visualization, Machine Learning, Python.
 
-### J.P. Morgan Software Engineering Virtual Experience on Forage
+**J.P. Morgan Software Engineering Virtual Experience on Forage**
 
 - Set up a local dev environment by downloading the necessary files, tools, and dependencies.
 - Utilized JPMorgan Chase’s open-source library Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor
