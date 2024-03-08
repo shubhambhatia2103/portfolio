@@ -1,4 +1,7 @@
-# Shubham Bhatia
+# SHUBHAM BHATIA
++91 98739-63559 ⋄ New Delhi, IN
+
+[shubhambhatia0321@gmail.com](shubhambhatia2103@gmail.com) ⋄ [linkedin.com](https://www.linkedin.com/in/shubhambhatia2103/) ⋄ [Github.com](https://github.com/shubhambhatia2103)
 ### Education
 Bachelor of Technology in Information Technology , IPEC 2020 - 2024
 
