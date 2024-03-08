@@ -15,9 +15,9 @@ X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 ## SKILLS
 
-*Technical Skills*&emsp;&emsp;&emsp;C++ Programming, Python, Javascript, Git/GitHub, MySQL.
+***Technical Skills:***&emsp;C++ Programming, Python, Javascript, Git/GitHub, MySQL.
 
-*Soft Skills*&emsp;&emsp;&emsp;Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
+***Soft Skills:***&emsp;&emsp;Communication, Teamwork, Problem-Solving, Critical Thinking, Flexibility, Strategic Planning.
 
 ## EXTRA-CURRICULAR & CERTIFICATION
 
@@ -51,10 +51,10 @@ X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 ## RELEVANT COURSES
 
-Data Structures & Algorithms | OOPS | Operating System | DBMS | Computer Networks | DAA | ML
+Data Structures & Algorithms - OOPS - Operating System - DBMS - Computer Networks - DAA - ML
 
 
 ## ACHIEVEMENTS
 
 -  4-star Silver Badge in 30 days of code on HackerRank.
-- 3-star Silver Badge in C++ on HackerRank
+- 3-star Silver Badge in C++ on HackerRank.
