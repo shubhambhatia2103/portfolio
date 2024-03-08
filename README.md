@@ -13,6 +13,10 @@ XII, CBSE , SSD Saraswati Bal mandir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&e
 
 X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018
 
+Bachelor of Technology in Information Technology , IPEC | 2020 - 2024
+XII, CBSE , SSD Saraswati Bal mandir | 2020
+X, CBSE , SSD Saraswati Bal mandir | 2018
+
 ## SKILLS
 
 ***Technical Skills:***&emsp;C++ Programming, Python, Javascript, Git/GitHub, MySQL.
