@@ -3,7 +3,7 @@
 
 [shubhambhatia0321@gmail.com](shubhambhatia2103@gmail.com) ⋄ [linkedin.com](https://www.linkedin.com/in/shubhambhatia2103/) ⋄ [Github.com](https://github.com/shubhambhatia2103)
 ### Education
-Bachelor of Technology in Information Technology ,IPEC &emsp;&emsp;&emsp;2020 - 2024
+Bachelor of Technology in Information Technology ,IPEC &emsp;&emsp;&emsp;&emsp;2020 - 2024
 
 XII, CBSE , SSD Saraswati Bal mandir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020
 
