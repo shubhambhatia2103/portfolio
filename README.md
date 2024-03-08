@@ -5,9 +5,9 @@
 ### Education
 Bachelor of Technology in Information Technology ,IPEC &emsp;&emsp;&emsp;2020 - 2024
 
-XII, CBSE , SSD Saraswati Bal mandir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020
+XII, CBSE , SSD Saraswati Bal mandir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020
 
-X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018
+X, CBSE , SSD Saraswati Bal mandir &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018
 
 ### EXTRA-CURRICULAR & CERTIFICATION
 Cognizant Artificial Intelligence Job Simulation on Forage
