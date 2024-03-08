@@ -1,6 +1,4 @@
 
-# SHUBHAM BHATIA
-
 [shubhambhatia0321@gmail.com](shubhambhatia2103@gmail.com) ⋄ [linkedin.com](https://www.linkedin.com/in/shubhambhatia2103/) ⋄ [Github.com](https://github.com/shubhambhatia2103)
 
 
