@@ -32,11 +32,11 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ## PROJECTS
 
-***Twitter Sentiment Analysis*** Developed a deep learning model that trains on 1.6 million tweets for sentiment analysis to classify any new tweet as either being positive or negative [(Try it here)](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis)
-- Achieved 78.2% accuracy in sentiment analysis using NLP techniques
-- Led implementation of NLP algorithms, improving sentiment analysis accuracy
-- Optimized model performance with data preprocessing, stemming, feature extraction
-- Utilized Kaggle API, manipulated Sentiment140 dataset for analysis
+***Twitter Sentiment Analysis*** Developed a deep learning model that trains on 1.6 million tweets for sentiment analysis to classify any new tweet as either being positive or negative. [(Try it here)](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis)
+- Achieved 78.2% accuracy in sentiment analysis using NLP techniques.
+- Led implementation of NLP algorithms, improving sentiment analysis accuracy.
+- Optimized model performance with data preprocessing, stemming, feature extraction.
+- Utilized Kaggle API, manipulated Sentiment140 dataset for analysis.
 
 ***Conversational-Chatbot-Groq*** Developed Groq API Chat Assistant to enhance Customer Support and Information Retrieval by using Large Language Models (LLMs) and NLP. [(Try it here)](https://github.com/shubhambhatia2103/conversational-chatbot-groq)
 - Utilized LangChain API to build Streamlit applications that enhance user engagement and accessibility.
