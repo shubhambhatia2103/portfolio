@@ -38,6 +38,12 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 - Optimized model performance with data preprocessing, stemming, feature extraction
 - Utilized Kaggle API, manipulated Sentiment140 dataset for analysis
 
+***Conversational-Chatbot-Groq*** Developed Groq API Chat Assistant to enhance Customer Support and Information Retrieval by using Large Language Models (LLMs) and NLP. [(Try it here)](https://github.com/shubhambhatia2103/conversational-chatbot-groq)
+- Utilized LangChain API to build Streamlit applications that enhance user engagement and accessibility.
+- Integrated the Groq API seamlessly for contextually relevant responses through NLP.
+- Managed session state to autonomously save and display chat history to enhance user interaction.
+- Improved user satisfaction and experience by implementing a robust conversational interface.
+
 
 ## ONLINE COURSES
 
