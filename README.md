@@ -44,6 +44,11 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 - Managed session state to autonomously save and display chat history to enhance user interaction.
 - Improved user satisfaction and experience by implementing a robust conversational interface.
 
+***Credit Scoring Model*** Developed a Credit Scoring Model utilizing Logistic Regression and decile methodology to empower data-driven lending decisions for banks, optimizing profitability and market penetration. [(Try it here)](https://github.com/shubhambhatia2103/Credit-Scoring-Model)
+- Achieved 83% accuracy in developing a machine learning model using Logistic Regression to predict loan default risk.
+- Led implementation of decile methodology to optimize lending strategies, improving profitability and market reach.
+- Utilized Python and libraries for data processing, model training, and evaluation.
+- Integrated reusable project structure for scalability and knowledge transfer, enhancing code maintainability.
 
 ## ONLINE COURSES
 
