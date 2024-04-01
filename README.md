@@ -10,9 +10,9 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ## SKILLS
 
-***Languages:***&emsp;C++ Programming, Python, Javascript, MySQL.
+***Languages:***&ensp;C++ Programming, Python, Javascript, MySQL.
 
-***Developers Tools:***&emsp;VS Code, Git, Google Colab, Jupyter Notebook.
+***Developers Tools:***&ensp;VS Code, Git, Google Colab, Jupyter Notebook.
 
 ***Technologies/Framework:***&ensp;Github, Machine learning libraries, Natural Language Processing (NLP), Docker, Streamlit.
 
