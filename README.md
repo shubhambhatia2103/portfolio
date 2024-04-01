@@ -12,9 +12,9 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ***Languages:***&emsp;C++ Programming, Python, Javascript, MySQL.
 
-***Developers Tools:***&emsp;VS Code, Git, Google Colab, Jupyter Notebook, Docker, Streamlit.
+***Developers Tools:***&emsp;VS Code, Git, Google Colab, Jupyter Notebook.
 
-***Technologies/Framework:***&emsp;Github, Machine Learning, Natural Language Processing (NLP).
+***Technologies/Framework:***&ensp;Github, Machine learning libraries, Natural Language Processing (NLP), Docker, Streamlit.
 
 ## EXTRA-CURRICULAR & CERTIFICATION
 
