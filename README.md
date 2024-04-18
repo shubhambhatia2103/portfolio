@@ -67,3 +67,7 @@ Data Structures & Algorithms - OOPS - Operating System - DBMS - Computer Network
 - Earned Microsoft Azure AI Fundamentals: Generative AI Trophy.
 - 4-star Silver Badge in 30 days of code on HackerRank.
 - 3-star Silver Badge in C++ on HackerRank.
+
+## Let's Connect
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/shubhambhatia2103/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/shubhambhatia2103) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
