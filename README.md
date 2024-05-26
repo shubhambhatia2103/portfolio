@@ -67,3 +67,4 @@ Data Structures & Algorithms - OOPS - Operating System - DBMS - Computer Network
 - Earned Microsoft Azure AI Fundamentals: Generative AI Trophy.
 - 4-star Silver Badge in 30 days of code on HackerRank.
 - 3-star Silver Badge in C++ on HackerRank.
+- 3-star Silver Badge in SQL on HackerRank
