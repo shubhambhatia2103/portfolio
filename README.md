@@ -10,7 +10,7 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ## SKILLS
 
-***Languages:***&ensp;C++ Programming, Python, Javascript, MySQL.
+***Languages:***&ensp;Python Programming, C++, MySQL.
 
 ***Developers Tools:***&ensp;VS Code, Git, Google Colab, Jupyter Notebook.
 
@@ -63,8 +63,9 @@ Data Structures & Algorithms - OOPS - Operating System - DBMS - Computer Network
 
 ## ACHIEVEMENTS
 
-- Earned Microsoft Azure AI Fundamentals: Generative AI Trophy.
 - 5-star Gold Badge in SQL on HackerRank.
 - 4-star Silver Badge in 30 days of code on HackerRank.
 - 3-star Silver Badge in C++ on HackerRank.
+- Earned Microsoft Azure AI Fundamentals: Generative AI Trophy.
+
 
