@@ -53,7 +53,7 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 ## ONLINE COURSES
 
 - **Problem-Solving by CodeChef:** Ready to apply Python enriched skill set to real-world challenges.
-- **C++ Programming - Beginner to Advanced:** Exploration of all the fundamental topics with a C++ Project
+- **Mode SQL:** Exploration of all the fundamental topics such as data manipulation, querying, and database management.
 
 
 ## RELEVANT COURSES
