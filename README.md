@@ -14,7 +14,7 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ***Developers Tools:***&ensp;VS Code, Git, Google Colab, Jupyter Notebook.
 
-***Technologies/Framework:***&ensp;Machine learning libraries, AWS (Lambda, Lex, S3), QuickSight, ETL, Data Warehousing, BeautifulSoup4, Docker, Streamlit
+***Technologies/Framework:***&ensp;Machine learning libraries, AWS (EC2, S3, Lambda, Lex), QuickSight, ETL, Data Warehousing, Pandas, NumPy, BeautifulSoup4, Docker, Streamlit.
 ## EXTRA-CURRICULAR & CERTIFICATION
 
 **Cognizant Artificial Intelligence Job Simulation on Forage**
