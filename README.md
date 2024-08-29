@@ -12,9 +12,10 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ***Languages:***&ensp;Python Programming, C++, MySQL.
 
-***Developers Tools:***&ensp;VS Code, Git, Google Colab, Jupyter Notebook.
+***Developers Tools:***&ensp;VS Code, Git Version Control, Anaconda, Google Colab, Jupyter Notebook.
 
-***Technologies/Framework:***&ensp;Machine learning libraries, AWS (EC2, S3, Lambda, Lex), QuickSight, ETL, Data Warehousing, Pandas, NumPy, BeautifulSoup4, Docker, Streamlit.
+***Technologies/Framework:***&ensp;Machine learning libraries, AWS (IAM, S3, EC2, Lambda, Lex), QuickSight, ETL,  Pandas, NumPy, BeautifulSoup4, Docker, Streamlit.
+
 ## EXTRA-CURRICULAR & CERTIFICATION
 
 **Cognizant Artificial Intelligence Job Simulation on Forage**
@@ -38,18 +39,17 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 - Developed interactive visualizations using QuickSight AutoGraph to compare movies and TV shows by release year.
 - Enhanced insights by applying filters to focus on content released after 2015, refining trend analysis.
 
-
 ***Conversational-Chatbot-Groq*** Developed Groq API Chat Assistant to enhance Customer Support and Information Retrieval by using Large Language Models (LLMs) and NLP. [(Try it here)](https://github.com/shubhambhatia2103/conversational-chatbot-groq)
 - Utilized LangChain API to build Streamlit applications that enhance user engagement and accessibility.
 - Integrated the Groq API seamlessly for contextually relevant responses through NLP.
 - Managed session state to autonomously save and display chat history to enhance user interaction.
 - Improved user satisfaction and experience by implementing a robust conversational interface.
 
-***Credit Scoring Model*** Developed Logistic Regression model for credit scoring, enabling data-driven lending strategies for banks. [(Try it here)](https://github.com/shubhambhatia2103/Credit-Scoring-Model)
-- Achieved 83% accuracy in developing a machine learning model using Logistic Regression to predict loan default risk.
-- Led implementation of decile methodology to optimize lending strategies, improving profitability and market reach.
-- Utilized Python and libraries for data processing, model training, and evaluation.
-- Integrated reusable project structure for scalability and knowledge transfer, enhancing code maintainability.
+***Twitter Sentiment Analysis*** Developed a deep learning model that trains on 1.6 million tweets for sentiment analysis to classify any new tweet as either being positive or negative [(Try it here)](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis)
+- Achieved 78.2% accuracy in sentiment analysis using NLP techniques
+- Led implementation of NLP algorithms, improving sentiment analysis accuracy
+- Optimized model performance with data preprocessing, stemming, feature extraction
+- Utilized Kaggle API, manipulated Sentiment140 dataset for analysis
 
 ## ONLINE COURSES
 
