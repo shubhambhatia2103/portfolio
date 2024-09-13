@@ -14,7 +14,7 @@ X, CBSE | SSD Saraswati Bal mandir (_2018_)
 
 ***Developers Tools:***&ensp;VS Code, Git Version Control, Anaconda, Google Colab, Jupyter Notebook.
 
-***Technologies/Framework:***&ensp;Machine learning libraries, AWS (IAM, S3, EC2, Lambda, Lex), QuickSight, ETL,  Pandas, NumPy, BeautifulSoup4, Docker, Streamlit.
+***Technologies/Framework:***&ensp;Machine learning libraries, AWS (IAM, S3, EC2, Lambda, Lex), QuickSight, ETL, Bash scripting, Linux,  Pandas, NumPy, BeautifulSoup4, Docker, Streamlit.
 
 ## EXTRA-CURRICULAR & CERTIFICATION
 
